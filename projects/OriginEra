@@ -1,0 +1,17 @@
+[
+  {
+    "project": "OriginEraDialup02",
+    "policies": [
+      "4366985244cb11614393333d017006c3a7c1faf49eb03b2669605b57"
+
+    ]
+  },
+  {
+    "project": "YourSecondProjectName",
+    "policies": [
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab",
+      "abcdefghijkklmnopqrstuvwxyzabcdefghijkklmnopqrstuvwxyzab"
+    ]
+  }
+]
